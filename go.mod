@@ -1,4 +1,4 @@
-module github.com/docker/go-plugins-helpers
+module github.com/mucamaca/go-plugins-helpers
 
 go 1.14
 
@@ -23,6 +23,9 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/vbatts/tar-split v0.11.1 // indirect
+	golang.org/x/lint v0.0.0-20190313153728-d0100b6bd8b3 // indirect
 	golang.org/x/net v0.0.0-20200822124328-c89045814202 // indirect
+	golang.org/x/tools v0.0.0-20190524140312-2c0ae7006135 // indirect
 	google.golang.org/grpc v1.31.1 // indirect
+	honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc // indirect
 )
